@@ -1,4 +1,4 @@
-# Lab de GitHub Actions: Primeiros Passos em Automação CI/CD
+# DevOps Iniciante - Lab de GitHub Actions: Primeiros Passos em Automação CI/CD
 
 Este repositório contém as atividades práticas que realizei para aprofundar meus conhecimentos em **CI/CD pipelines**. 
 O objetivo deste laboratório foi entender como automatizar o fluxo de desenvolvimento, desde o checkout do código até a orquestração de múltiplos estágios de deploy (DEV, QA, HML e PRD) via Yaml e GitHub Actions.
