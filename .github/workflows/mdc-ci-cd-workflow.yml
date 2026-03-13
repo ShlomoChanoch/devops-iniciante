@@ -11,7 +11,7 @@ jobs:
     
     steps:
       - name: Checkout do Código
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
   dev:
     needs: build # Este job SÓ roda depois que 'build' terminar com sucesso
